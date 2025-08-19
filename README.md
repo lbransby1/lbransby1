@@ -1,5 +1,11 @@
-## Hi there 👋
+# Luke Bransby Portfolio
 
+## Project 1: MMA Metrics
+* Dashboard to view voting ensemble predictions for Mixed Martial Arts Outcomes for fights
+* Bias Detection to identify potential bias within models
+* Fighter Comparison with radar charts and dynamic metric comparisons between fighters 
+* Explainability through SHAP Values to highlight feature importance when predicting winners
+* Fully deployed on Hugging Face Spaces for public demo
 <!--
 **lbransby1/lbransby1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
