@@ -7,7 +7,7 @@
 * Explainability through SHAP Values to highlight feature importance when predicting winners
 * Fully deployed on Hugging Face Spaces for public demo
 
-## Research Project: Implementing NLP techinques to predict UFC Matches 
+## [Research Project: Implementing NLP techinques to predict UFC Matches](https://github.com/lbransby1/Final-Year-Project)
 * Final Year dissertation at QMUL - recieved A grade for Project
 * Predictive performance increased by 6% over using exclusively numeric features
 * Implemented Principle Component Analysis to reduce components for efficient predictions
