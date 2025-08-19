@@ -1,6 +1,6 @@
 # Luke Bransby Portfolio
 
-## [Project 1: MMA Metrics] (https://github.com/lbransby1/MMAMetrics)
+## [Project 1: MMA Metrics](https://github.com/lbransby1/MMAMetrics)
 * Dashboard to view voting ensemble predictions for Mixed Martial Arts Outcomes for fights
 * Bias Detection to identify potential bias within models
 * Fighter Comparison with radar charts and dynamic metric comparisons between fighters 
