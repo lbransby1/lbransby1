@@ -1,4 +1,4 @@
-# Luke Bransby Portfolio
+# Luke Bransby's Portfolio
 
 ## [Octagon Intellegence Blog](https://lukebransby.notion.site/Octagon-Intelligence-Luke-Bransby-2405543b79f3800fa662c4d93d3f98e7?source=copy_link)
 * Blog to document my findings within predicting UFC Matches with various machine learning techniques
@@ -12,7 +12,7 @@
 * Fully deployed on Hugging Face Spaces for public demo
 
 ## [Research Project: Implementing NLP techinques to predict UFC Matches](https://github.com/lbransby1/Final-Year-Project)
-* Final Year dissertation at QMUL - recieved A grade for Project
+* Final Year dissertation at QMUL - recieved A grade
 * Predictive performance increased by 6% over using exclusively numeric features
 * Implemented Principle Component Analysis to reduce components for efficient predictions
 * Produced a Full research report with methodology, results and analysis
