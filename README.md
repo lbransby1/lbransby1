@@ -11,7 +11,7 @@
 * Swap Ensemble Averaging to eliminate corner bias
 * Fully deployed [Here](https://huggingface.co/spaces/lukebransby/MMAMetrics) on Hugging Face Spaces for public demo
 
-![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
+![me](https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif)
 
 ## [Research Project: Implementing NLP techinques to predict UFC Matches](https://github.com/lbransby1/Final-Year-Project)
 * Final Year dissertation at QMUL - recieved A grade
