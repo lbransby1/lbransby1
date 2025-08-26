@@ -5,10 +5,10 @@
 * Challanges and Solutions to findings are explained to give context to my findings
 
 ## [Dashboard Project: MMA Metrics](https://github.com/lbransby1/MMAMetrics)
-* Dashboard to view voting ensemble predictions for Mixed Martial Arts Outcomes for fights
-* Bias Detection to identify potential bias within models
-* Fighter Comparison with radar charts and dynamic metric comparisons between fighters 
-* Explainability through SHAP Values to highlight feature importance when predicting winners
+* Dashboard to view ensemble predictions for Mixed Martial Arts Outcomes for fights
+* Fighter Comparison with radar charts and dynamic metric comparisons between fighters
+* Fully Optimised models with Optuna
+* Swap Ensemble Averaging to eliminate corner bias
 * Fully deployed on Hugging Face Spaces for public demo
 
 ![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
