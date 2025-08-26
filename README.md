@@ -15,7 +15,7 @@ Check out my Streamlit dashboard where you can compare fighters, visualize stats
 </td>
 <td>
 
-<img src="[https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif]" alt="Dashboard GIF" width="400">
+![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
 
 </td>
 </tr>
