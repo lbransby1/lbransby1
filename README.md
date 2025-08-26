@@ -9,7 +9,7 @@
 * Fighter Comparison with radar charts and dynamic metric comparisons between fighters
 * Fully Optimised models with Optuna
 * Swap Ensemble Averaging to eliminate corner bias
-* Fully deployed on Hugging Face Spaces for public demo
+* Fully deployed [Here](https://huggingface.co/spaces/lukebransby/MMAMetrics) on Hugging Face Spaces for public demo
 
 ![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
 
