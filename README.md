@@ -10,6 +10,7 @@
 * Fighter Comparison with radar charts and dynamic metric comparisons between fighters 
 * Explainability through SHAP Values to highlight feature importance when predicting winners
 * Fully deployed on Hugging Face Spaces for public demo
+![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
 
 ## [Research Project: Implementing NLP techinques to predict UFC Matches](https://github.com/lbransby1/Final-Year-Project)
 * Final Year dissertation at QMUL - recieved A grade
