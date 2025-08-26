@@ -4,25 +4,6 @@
 * Blog to document my findings within predicting UFC Matches with various machine learning techniques
 * Challanges and Solutions to findings are explained to give context to my findings
 
-<table>
-<tr>
-<td>
-
-### UFC Fight Predictor Dashboard
-
-Check out my Streamlit dashboard where you can compare fighters, visualize stats, and predict fight outcomes with machine learning!
-
-</td>
-<td>
-
-![me](https://github.com/lbransby1/lbransby1/blob/main/MMA%20Metrics%20Gif.gif)
-
-</td>
-</tr>
-</table>
-
-
-
 ## [Dashboard Project: MMA Metrics](https://github.com/lbransby1/MMAMetrics)
 * Dashboard to view voting ensemble predictions for Mixed Martial Arts Outcomes for fights
 * Bias Detection to identify potential bias within models
