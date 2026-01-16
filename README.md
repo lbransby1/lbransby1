@@ -3,6 +3,7 @@
 ## [Octagon Intellegence Blog](https://lukebransby.notion.site/Octagon-Intelligence-Luke-Bransby-2405543b79f3800fa662c4d93d3f98e7?source=copy_link)
 * Blog to document my findings within predicting UFC Matches with various machine learning techniques
 * Challanges and Solutions to findings are explained to give context to my findings
+* [me](https://github.com/lbransby1/mri-em-Segmentation/raw/main/images/scan.png)
 
 ## [Dashboard Project: MMA Metrics](https://github.com/lbransby1/MMAMetrics)
 * Dashboard to view ensemble predictions for Mixed Martial Arts Outcomes for fights
