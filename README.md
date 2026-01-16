@@ -5,9 +5,7 @@
 * Application: Applied the algorithm to T1-weighted MRI scans to solve a real-world medical segmentation problem (separating Grey Matter, White Matter, and CSF).
 * Outcome: Successfully resolved the "Lindley's Paradox" conflict between statistical metrics ($k=2$) and biological accuracy ($k=5$) using Sum of Squared Errors (SSE) analysis.
 <p align="center">
-<img src="https://github.com/lbransby1/mri-em-Segmentation/raw/main/images/scan.png" alt="SSE Graph" width="500"/>
-
-  
+<img src="https://github.com/lbransby1/mri-em-Segmentation/raw/main/images/scan.png" alt="SSE Graph" width="500"/><br/>
 <img src="https://github.com/lbransby1/mri-em-Segmentation/raw/main/images/gaussian_curves.png" alt="Gaussian Mixture Model Results" width="500"/>
 </p>
 
