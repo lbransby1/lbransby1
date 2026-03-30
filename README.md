@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Live Systems
+### My Live Systems:
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-### 🔬 Active Research: GenAI Thesis
+### MSc Thesis:
 **"Counterfactual Latent Diffusion for Dermatological Diagnostics"**
 * Developing a Generative AI framework (Stable Diffusion) to improve the explainability of skin cancer classifiers.
 * **Status:** Prototype phase utilizing **Img2Img** and **ControlNet** to generate synthetic clinical counterfactuals for model validation.
@@ -55,17 +55,3 @@
 * **Data:** PostgreSQL, Redis (Caching), Advanced Feature Engineering.
 
 ---
-
-### 🧠 Other Technical Deep-Dives
-
-#### [MRI Brain Segmentation via GMMs](https://github.com/lbransby1/mri-em-Segmentation)
-* **Math-First:** Implemented the **Expectation-Maximization (EM)** algorithm from scratch in NumPy.
-* **Impact:** Resolved biological vs. statistical accuracy conflicts (Lindley's Paradox) in T1-weighted MRI segmentation.
-
-#### [NLP in Combat Sports (Thesis @ QMUL)](https://github.com/lbransby1/Final-Year-Project)
-* **Grade:** A | Achieved significant predictive uplift by integrating Principle Component Analysis (PCA) with text-based feature sets.
-
----
-
-📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
-⚡ **Fun Fact:** When I'm not "vibe coding" production systems, I'm on the mats training BJJ.
