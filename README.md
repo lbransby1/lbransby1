@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h4>📈 <a href="https://m5forecasting.info">M5 Forecasting Engine</a></h4>
+      <h4>📈 <a href="https://m5forecasting.info">M5Forecasting.info</a></h4>
       <strong>High-Throughput Retail Demand Forecasting</strong>
       <ul>
         <li><strong>The Problem:</strong> Solving the "Safety Stock" dilemma for large-scale retail hierarchies.</li>
@@ -23,11 +23,6 @@
       <img src="https://raw.githubusercontent.com/lbransby1/M5-Forecasting/832b2211cd305b5034f34cde4fa2f5dd3bd75f35/images/m5-demo.gif" alt="M5 Forecasting Demo" style="border-radius: 8px; border: 1px solid #30363d;">
     </td>
   </tr>
-</table>
-
-#### 🔮 [FightCast.app](https://fightcast.app)
-
-<table>
   <tr>
     <td width="40%" valign="center">
       <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
