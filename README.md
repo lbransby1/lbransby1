@@ -1,41 +1,54 @@
-# Luke Bransby's Portfolio
+# Luke Bransby | Lead AI Engineer ⬢
 
-## [Project: MRI Brain Segmentation via Gaussian Mixture Models](https://github.com/lbransby1/mri-em-Segmentation)
-* Motivation: Initiated a self-directed project to master the Expectation-Maximization (EM) algorithm by engineering a custom implementation from scratch in Python/NumPy.
-* Application: Applied the algorithm to T1-weighted MRI scans to solve a real-world medical segmentation problem (separating Grey Matter, White Matter, and CSF).
-* Outcome: Successfully resolved the "Lindley's Paradox" conflict between statistical metrics ($k=2$) and biological accuracy ($k=5$) using Sum of Squared Errors (SSE) analysis.
-<p align="center">
-<img src="https://github.com/lbransby1/M5-Forecasting/blob/main/images/m5-demo.gif?raw=true" alt="SSE Graph" width="500"/><br/>
-<img src="https://github.com/lbransby1/mri-em-Segmentation/raw/main/images/gaussian_curves.png" alt="Gaussian Mixture Model Results" width="500"/>
-</p>
+**MSc Data Science @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
 
-## [Dashboard Project: MMA Metrics](https://github.com/lbransby1/MMAMetrics)
-* Dashboard to view ensemble predictions for Mixed Martial Arts Outcomes for fights
-* Fighter Comparison with radar charts and dynamic metric comparisons between fighters
-* Fully Optimised models with Optuna
-* Swap Ensemble Averaging to eliminate corner bias
-* Fully deployed [Here](https://huggingface.co/spaces/lukebransby/MMAMetrics) on Hugging Face Spaces for public demo
+---
 
-![me](https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif)
+### 🚀 Live Systems
 
-## [Research Project: Implementing NLP techinques to predict UFC Matches](https://github.com/lbransby1/Final-Year-Project)
-* Final Year dissertation at QMUL - recieved A grade
-* Predictive performance increased by 6% over using exclusively numeric features
-* Implemented Principle Component Analysis to reduce components for efficient predictions
-* Produced a Full research report with methodology, results and analysis
+#### 📈 [M5 Forecasting Engine](https://m5forecasting.info) 
+**High-Throughput Retail Demand Forecasting**
+* **The Problem:** Solving the "Safety Stock" dilemma for large-scale retail hierarchies.
+* **The Tech:** Engineered a **Quantile Regression** model (LightGBM) to handle uncertainty, wrapped in a **FastAPI** microservice.
+* **Engineering:** Fully containerized with **Docker** and deployed to **Railway** for production-grade reliability. 
+* **Impact:** Modeled a theoretical **12% reduction in overstock costs** via 90th percentile service-level optimization.
+* [Source Code](https://github.com/lbransby1/M5-Forecasting)
 
+#### 🔮 [FightCast.app](https://fightcast.app)
+**MMA Predictive Analytics & Upset Detection**
+* **The Problem:** Capturing non-linear fighter dynamics and eliminating corner/bias variables in match outcomes.
+* **The Tech:** Ensemble models optimized with **Optuna** and **NLP-enhanced feature engineering** (6% accuracy boost over numeric-only baselines).
+* **The Experience:** Real-time radar charts and dynamic fighter comparisons with <200ms inference latency.
+* **Deployment:** Deployed as a scalable web app using **Docker** and **Streamlit**.
 
-<!--
-**lbransby1/lbransby1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 Active Research: GenAI Thesis
+**"Counterfactual Latent Diffusion for Dermatological Diagnostics"**
+* Developing a Generative AI framework (Stable Diffusion) to improve the explainability of skin cancer classifiers.
+* **Status:** Prototype phase utilizing **Img2Img** and **ControlNet** to generate synthetic clinical counterfactuals for model validation.
+* **Tech Stack:** PyTorch, Hugging Face Diffusers, OpenCV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Stack
+* **Languages:** Python (Expert), Rust (Learning), SQL.
+* **ML/Math:** LightGBM, PyTorch, Quantile Regression, Causal Inference, EM Algorithms.
+* **Engineering:** Docker, FastAPI, Polars, Railway, CI/CD, Git.
+* **Data:** PostgreSQL, Redis (Caching), Advanced Feature Engineering.
+
+---
+
+### 🧠 Other Technical Deep-Dives
+
+#### [MRI Brain Segmentation via GMMs](https://github.com/lbransby1/mri-em-Segmentation)
+* **Math-First:** Implemented the **Expectation-Maximization (EM)** algorithm from scratch in NumPy.
+* **Impact:** Resolved biological vs. statistical accuracy conflicts (Lindley's Paradox) in T1-weighted MRI segmentation.
+
+#### [NLP in Combat Sports (Thesis @ QMUL)](https://github.com/lbransby1/Final-Year-Project)
+* **Grade:** A | Achieved significant predictive uplift by integrating Principle Component Analysis (PCA) with text-based feature sets.
+
+---
+
+📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
+⚡ **Fun Fact:** When I'm not "vibe coding" production systems, I'm on the mats training BJJ.
