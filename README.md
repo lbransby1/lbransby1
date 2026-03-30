@@ -33,6 +33,7 @@
       <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
     </td>
     <td width="60%" valign="top">
+      <h4>🥊 <a href="https://fightcast.app">FightCast.app</a></h4>
       <strong>MMA Predictive Analytics & Upset Detection</strong>
       <ul>
         <li><strong>The Problem:</strong> Capturing non-linear fighter dynamics and eliminating corner/bias variables in match outcomes.</li>
