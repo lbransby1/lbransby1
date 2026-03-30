@@ -1,4 +1,4 @@
-# Luke Bransby | ML Engineering and Data Science ⬢
+# Luke Bransby | ML Engineering and Data Science
 
 **MSc Data Science and Machine Learning @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
 
@@ -48,9 +48,9 @@
 ---
 
 ### Core Stack
-* **Languages:** Python (Expert), Rust (Learning), SQL.
-* **ML/Math:** LightGBM, PyTorch, Quantile Regression, Causal Inference, EM Algorithms.
+* **Languages:** Python, Java, SQL
+* **ML/Math:** LightGBM, PyTorch, Quantile Regression, Causal Inference
 * **Engineering:** Docker, FastAPI, Polars, Railway, CI/CD, Git.
-* **Data:** PostgreSQL, Redis (Caching), Advanced Feature Engineering.
+* **Data:** PostgreSQL, Kafka
 
 ---
