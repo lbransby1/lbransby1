@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h4>📈 <a href="https://m5forecasting.info">M5Forecasting.info</a></h4>
+      <h2><a href="https://m5forecasting.info">M5Forecasting.info</a></h2>
       <strong>High-Throughput Retail Demand Forecasting</strong>
       <ul>
         <li><strong>The Problem:</strong> Solving the "Safety Stock" dilemma for large-scale retail hierarchies.</li>
@@ -25,7 +25,7 @@
   
   <tr>
     <td width="60%" valign="top">
-      <h4>🥊 <a href="https://fightcast.app">FightCast.app</a></h4>
+      <h2><a href="https://fightcast.app">FightCast.app</a></h2>
       <strong>MMA Predictive Analytics & Upset Detection</strong>
       <ul>
         <li><strong>The Problem:</strong> Capturing non-linear fighter dynamics and eliminating corner/bias variables in match outcomes.</li>
@@ -40,15 +40,14 @@
   </tr>
 </table>
 
-### MSc Thesis:
-**"Counterfactual Latent Diffusion for Dermatological Diagnostics"**
+### MSc Thesis: Counterfactual Image Generation with Stable Diffusion for Skin Cancer
 * Developing a Generative AI framework (Stable Diffusion) to improve the explainability of skin cancer classifiers.
 * **Status:** Prototype phase utilizing **Img2Img** and **ControlNet** to generate synthetic clinical counterfactuals for model validation.
 * **Tech Stack:** PyTorch, Hugging Face Diffusers, OpenCV.
 
 ---
 
-### 🛠️ Core Stack
+### Core Stack
 * **Languages:** Python (Expert), Rust (Learning), SQL.
 * **ML/Math:** LightGBM, PyTorch, Quantile Regression, Causal Inference, EM Algorithms.
 * **Engineering:** Docker, FastAPI, Polars, Railway, CI/CD, Git.
