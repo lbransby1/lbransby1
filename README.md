@@ -1,4 +1,4 @@
-# Luke Bransby | ML Engineering and Data Science
+# Luke Bransby
 
 **MSc Data Science and Machine Learning @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
 
