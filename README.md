@@ -18,15 +18,13 @@
       </ul>
       <a href="https://github.com/lbransby1/M5-Forecasting">View Source Code →</a>
     </td>
-    <td width="50%" valign="center">
+    <td width="40%" valign="center">
       <img src="https://raw.githubusercontent.com/lbransby1/M5-Forecasting/832b2211cd305b5034f34cde4fa2f5dd3bd75f35/images/m5-demo.gif" alt="M5 Forecasting Demo" style="border-radius: 8px; border: 1px solid #30363d;">
     </td>
   </tr>
+  
   <tr>
-    <td width="40%" valign="center">
-      <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
-    </td>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h4>🥊 <a href="https://fightcast.app">FightCast.app</a></h4>
       <strong>MMA Predictive Analytics & Upset Detection</strong>
       <ul>
@@ -35,6 +33,9 @@
         <li><strong>Deployment:</strong> Deployed as a scalable web app using <strong>Docker</strong> and <strong>Streamlit</strong>.</li>
       </ul>
       <a href="https://github.com/lbransby1/MMAMetrics">View Source Code →</a>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
     </td>
   </tr>
 </table>
