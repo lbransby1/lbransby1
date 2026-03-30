@@ -1,27 +1,49 @@
-# Luke Bransby | Lead AI Engineer ⬢
+# Luke Bransby | ML Engineering and Data Science ⬢
 
-**MSc Data Science @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
+**MSc Data Science and Machine Learning @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
 
 ---
 
 ### 🚀 Live Systems
 
-#### 📈 [M5 Forecasting Engine](https://m5forecasting.info) 
-**High-Throughput Retail Demand Forecasting**
-* **The Problem:** Solving the "Safety Stock" dilemma for large-scale retail hierarchies.
-* **The Tech:** Engineered a **Quantile Regression** model (LightGBM) to handle uncertainty, wrapped in a **FastAPI** microservice.
-* **Engineering:** Fully containerized with **Docker** and deployed to **Railway** for production-grade reliability. 
-* **Impact:** Modeled a theoretical **12% reduction in overstock costs** via 90th percentile service-level optimization.
-* [Source Code](https://github.com/lbransby1/M5-Forecasting)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>📈 <a href="https://m5forecasting.info">M5 Forecasting Engine</a></h4>
+      <strong>High-Throughput Retail Demand Forecasting</strong>
+      <ul>
+        <li><strong>The Problem:</strong> Solving the "Safety Stock" dilemma for large-scale retail hierarchies.</li>
+        <li><strong>The Tech:</strong> Engineered a <strong>Quantile Regression</strong> model (LightGBM) to handle uncertainty, wrapped in a <strong>FastAPI</strong> microservice.</li>
+        <li><strong>Engineering:</strong> Fully containerized with <strong>Docker</strong> and deployed to <strong>Railway</strong> for production-grade reliability.</li>
+        <li><strong>Impact:</strong> Modeled a theoretical <strong>12% reduction in overstock costs</strong> via 90th percentile service-level optimization.</li>
+      </ul>
+      <a href="https://github.com/lbransby1/M5-Forecasting">View Source Code →</a>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://raw.githubusercontent.com/lbransby1/M5-Forecasting/832b2211cd305b5034f34cde4fa2f5dd3bd75f35/images/m5-demo.gif" alt="M5 Forecasting Demo" style="border-radius: 8px; border: 1px solid #30363d;">
+    </td>
+  </tr>
+</table>
 
 #### 🔮 [FightCast.app](https://fightcast.app)
-**MMA Predictive Analytics & Upset Detection**
-* **The Problem:** Capturing non-linear fighter dynamics and eliminating corner/bias variables in match outcomes.
-* **The Tech:** Ensemble models optimized with **Optuna** and **NLP-enhanced feature engineering** (6% accuracy boost over numeric-only baselines).
-* **The Experience:** Real-time radar charts and dynamic fighter comparisons with <200ms inference latency.
-* **Deployment:** Deployed as a scalable web app using **Docker** and **Streamlit**.
 
----
+<table>
+  <tr>
+    <td width="40%" valign="center">
+      <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
+    </td>
+    <td width="60%" valign="top">
+      <strong>MMA Predictive Analytics & Upset Detection</strong>
+      <ul>
+        <li><strong>The Problem:</strong> Capturing non-linear fighter dynamics and eliminating corner/bias variables in match outcomes.</li>
+        <li><strong>The Tech:</strong> Ensemble models optimized with <strong>Optuna</strong> and <strong>NLP-enhanced feature engineering</strong> (6% accuracy boost over numeric-only baselines).</li>
+        <li><strong>The Experience:</strong> Real-time radar charts and dynamic fighter comparisons with <200ms inference latency.</li>
+        <li><strong>Deployment:</strong> Deployed as a scalable web app using <strong>Docker</strong> and <strong>Streamlit</strong>.</li>
+      </ul>
+      <a href="https://github.com/lbransby1/MMAMetrics">View Source Code →</a>
+    </td>
+  </tr>
+</table>
 
 ### 🔬 Active Research: GenAI Thesis
 **"Counterfactual Latent Diffusion for Dermatological Diagnostics"**
