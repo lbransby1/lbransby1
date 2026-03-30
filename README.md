@@ -2,7 +2,6 @@
 
 **MSc Data Science and Machine Learning @ UCL** | Specializing in End-to-End ML Systems, Probabilistic Forecasting, and Generative AI.
 
----
 
 ### My Live Systems:
 
@@ -51,6 +50,3 @@
 * **Languages:** Python, Java, SQL
 * **ML/Math:** LightGBM, PyTorch, Quantile Regression, Causal Inference
 * **Engineering:** Docker, FastAPI, Polars, Railway, CI/CD, Git.
-* **Data:** PostgreSQL, Kafka
-
----
