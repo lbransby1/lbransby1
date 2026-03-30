@@ -31,7 +31,7 @@
         <li><strong>The Experience:</strong> Real-time radar charts and dynamic fighter comparisons.</li>
         <li><strong>Deployment:</strong> Deployed as a scalable web app using <strong>Docker</strong> and <strong>Streamlit</strong>.</li>
       </ul>
-      <a href="https://github.com/lbransby1/MMAMetrics">View Source Code →</a><br>
+      <a href="https://github.com/lbransby1/end-to-end-ufc-prediction">View Source Code →</a><br>
     </td>
     <td width="40%" valign="center">
       <img src="https://github.com/lbransby1/lbransby1/blob/main/MMAMetrics.gif?raw=true" alt="FightCast Demo" style="border-radius: 8px; border: 1px solid #30363d;">
