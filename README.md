@@ -38,7 +38,7 @@ Specialising in deterministic LLM systems, probabilistic time-series forecasting
       <a href="https://github.com/lbransby1/crohns-care">View Source Code →</a>
     </td>
     <td width="40%" valign="center">
-      <img src="https://raw.githubusercontent.com/lbransby1/lbransby1/main/assets/crohns-demo.png" alt="Crohns Care Architecture Demo" style="border-radius: 8px; border: 1px solid #30363d;" onerror="this.src='https://raw.githubusercontent.com/lbransby1/lbransby1/main/assets/rag-placeholder.png';">
+      <img src="https://github.com/lbransby1/lbransby1/blob/main/crohnsgif.gif" alt="Crohns Care Architecture Demo" style="border-radius: 8px; border: 1px solid #30363d;" onerror="this.src='https://raw.githubusercontent.com/lbransby1/lbransby1/main/assets/rag-placeholder.png';">
     </td>
   </tr>
 
