@@ -22,7 +22,7 @@ Specialising in deterministic LLM systems, probabilistic time-series forecasting
       <a href="https://huggingface.co/spaces/lukebransby/skin-lesion-counterfactual-demo">Live Demo (Hugging Face) →</a> | <a href="https://github.com/lbransby1/msc-thesis">View Source Code →</a>
     </td>
     <td width="40%" valign="center">
-      <img src="https://huggingface.co/spaces/lukebransby/skin-lesion-counterfactual-demo/raw/main/thumbnail.png" alt="Skin Lesion Counterfactual Demo" style="border-radius: 8px; border: 1px solid #30363d;" onerror="this.src='https://raw.githubusercontent.com/lbransby1/lbransby1/main/assets/thesis-placeholder.png';">
+      <img src="https://github.com/lbransby1/lbransby1/blob/main/lesion.gif" alt="Skin Lesion Counterfactual Demo" style="border-radius: 8px; border: 1px solid #30363d;" onerror="this.src='https://raw.githubusercontent.com/lbransby1/lbransby1/main/assets/thesis-placeholder.png';">
     </td>
   </tr>
 
